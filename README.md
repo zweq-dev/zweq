@@ -1,8 +1,9 @@
-<h1 align="center">zweq-dev systems</h1>
+<h1 align="center">zweq</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zweq-dev&label=Profile%20views&color=0e75b6&style=flat" alt="zweq-dev" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  zweq#6407
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
