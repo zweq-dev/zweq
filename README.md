@@ -1,6 +1,8 @@
 <h1 align="center">zweq</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zweq-dev&label=Profile%20views&color=0e75b6&style=flat" alt="zweq-dev" /> </p>
 
+<img src="https://images-ext-2.discordapp.net/external/gC8d1YL5VBGlKZgs2S6tWRlxB5CXRo3BOAm8ilMOZHM/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/777989794935472168/ac22f80a53df5d6efe7bcafca4148639.webp?width=430&height=430" alt="zweqwe"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   zweq#6407
